@@ -30,7 +30,7 @@ main.o: main.c main.h
 	gcc -c -Wall main.c
 
 # Chris Tass-Parker
-# 541236 
+#   
 #
 # Marker note: making 
 # ida will use heursitic.c and 

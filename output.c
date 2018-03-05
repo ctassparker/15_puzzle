@@ -1,4 +1,4 @@
-// C Tass-Parker 541236
+//  Chris Tass-Parker 2015  
 //  output.c
 
 #include "main.h"

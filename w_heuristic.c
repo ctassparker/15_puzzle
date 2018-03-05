@@ -1,4 +1,4 @@
-// C Tass-Parker 541236
+//  Chris Tass-Parker 2015  
 // WIDAheuristic 
 // this is compiled for WIDA build
 

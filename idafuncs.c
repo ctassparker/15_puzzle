@@ -1,4 +1,4 @@
-// C Tass-Parker 541236
+//  Chris Tass-Parker 2015  
 // IDA functions
 // includes control loop & recursive function
 // plus game - move functions 

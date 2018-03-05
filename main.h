@@ -3,7 +3,7 @@
 //  15_puzzle
 //
 //  Christopher Tass-Parker 
-//	541236
+//	 
 / */
 // C libraries used: 
 #include <stdio.h>

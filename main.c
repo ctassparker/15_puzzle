@@ -3,7 +3,7 @@
 //  15_puzzle - IDA* and WIDA* implementation 
 //
 //  Created by Christopher Tass-Parker on 21/10/2015.
-//  Student no: 541236
+//  Student no:  
 //  Username: tass
 //  Tutor: Grady, Wed 10am 
 //*/
